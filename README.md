@@ -1,2 +1,4 @@
-# manhua
-爬取漫画网站自动下载
+# mangabz漫画网爬取
+mangabz漫画下载脚本
+
+使用python和java两种语言开发
